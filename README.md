@@ -7,12 +7,12 @@
 
 ---
 
-##Github Stats
+## Github Stats
 
 ![Justin's GitHub stats](https://github-readme-stats.vercel.app/api?username=RetroPixelz&show_icons=true&theme=gruvbox)
 
 ---
-##Pinned Repositories
+## Pinned Repositories
 
 <a href="https://github.com/RetroPixelz/SkinsGive">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=RetroPixelz&repo=SkinsGive&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
