@@ -9,12 +9,14 @@
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RetroPixels&repo=github-readme-stats)](https://github.com/RetroPixels/github-readme-stats) -->
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RetroPixelz&repo=WowCraft)](https://github.com/RetroPixelz/WowCraft)
+
 
 <a href="https://github.com/RetroPixelz/WowCraft">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=RetroPixelz&repo=WowCraft&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
-
+<a href="https://github.com/epicYellow/Innovex-Bank.App">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=epicYellow&repo=Innovex-Bank.App&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
 
 <br>
 
@@ -26,16 +28,15 @@
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=RetroPixelz&repo=SkinsGive&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<a href="https://github.com/epicYellow/Innovex-Bank.App">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=epicYellow&repo=Innovex-Bank.App&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
 
 
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RetroPixels)](https://github.com/RetroPixels/github-readme-stats)
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<!-- [![Justin's GitHub stats](https://github-readme-stats.vercel.app/api?username=RetroPixels)](https://github.com/RetroPixels/github-readme-stats) -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RetroPixelz&show_icons=true&theme=gruvbox)
+
 <!--
 **Justin-OwiStudent/Justin-OwiStudent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
