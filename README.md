@@ -12,6 +12,8 @@
 ![Justin's GitHub stats](https://github-readme-stats.vercel.app/api?username=RetroPixelz&show_icons=true&theme=gruvbox)
 
 ---
+<h1 align="center">Here is some of the recent projects that I have worked on.</h1>
+
 ## Pinned Repositories
 
 <a href="https://github.com/RetroPixelz/SkinsGive">
