@@ -45,13 +45,14 @@
 </a>
 
 
-
+## Contact
+- [Justin Koster](https://www.linkedin.com/in/justin-koster-502401225/) on Linkedin
+- 
 <details>
  <summary><h3>My Coding Journey</h3></summary>
 I have always loved computers and playing around with tech, but I never knew that I would end up becoming a fullstack developer. Programming kind of landed in my lap, and since then I have never looked back, from my first 'Hello, World!' to my latest project I have loved every moment of it.
 
-## Contact
-- [Justin Koster](https://www.linkedin.com/in/justin-koster-502401225/) on Linkedin
+
 
 
 
