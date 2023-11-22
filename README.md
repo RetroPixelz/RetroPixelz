@@ -33,7 +33,7 @@
 
 <div style="margin-right: 1rem; margin-bottom: .5rem; margin-left: 1rem">
         <h2>WoW Craft</h2>
-            <img src="./assets/wowcraft.jpg" alt="Wowcraft" style="max-width: 100%;    
+            <img src="./assets/wowcraft.jpg" alt="Wowcraft" style="max-width: 450px;    
               height: 350px; margin-bottom: 20px; border-radius: 5px;">
 </br>
 </br>
