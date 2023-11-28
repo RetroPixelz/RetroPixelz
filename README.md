@@ -3,7 +3,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=FED32C&center=true&vCenter=true&width=1400&lines=Web Developer" alt="Typing SVG" /></a>
 </br>
 
-<p align="center">I'm a young web developer who just fineshed my degree at Open Window. Take alook around my profile to see some of the cool projects I have created over the course of my studies. I really have a passion for front end and mobile app development.</p>
+<p align="center">I'm a young web developer who just fineshed my degree at Open Window. Take a look around my profile to see some of the cool projects I have created over the course of my studies. I really have a passion for front end and mobile app development.</p>
 <p align="center">Oh yeah, and be sure to checkout my LinkedIn and let me know about any cool work oppertunities!</p>
 
 </br>
@@ -69,7 +69,7 @@ WoW Craft is an Inventory management Angular web app. Users can manage their ing
             
 </br>
 </br>
-Counter Skins is a mobile react-native competition application where users can enter their skin designs to have the oppertunity for community members to vote for their entries. I made use of google firebase for the database and storage.
+Counter Skins is a mobile React-Native competition application where users can enter their skin designs and have the oppertunity for the community members to vote for their entries. I made use of google Firebase for the database and storage.
         <div style="display: flex; justify-content: space-between; margin-top: 1rem">
         <a href="https://github.com/RetroPixelz/SkinsGive">
           <img alt="View Counter Skins" title="Counter Skins"              
