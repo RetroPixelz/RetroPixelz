@@ -19,9 +19,9 @@
 <a href="https://www.linkedin.com/in/justin-koster-502401225/">
     <img alt="Button" title="Liniked in" src="https://custom-icon-badges.demolab.com/badge/-My%20LinkedIn-blue?style=for-the-badge&logoColor=white&logo=repo"/>
   </a>
-  <a href="jmkoster21@gmail.com">
+  <!-- <a href="jmkoster21@gmail.com">
     <img alt="Button" title="Gmail" src="https://custom-icon-badges.demolab.com/badge/-Gmail-orange?style=for-the-badge&logoColor=white&logo=mail"/>
-  </a>
+  </a> -->
 </p>
 
 ### 
