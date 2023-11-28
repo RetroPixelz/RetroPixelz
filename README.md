@@ -119,12 +119,18 @@ Counter Skins is a mobile react-native competition application where users can e
 
 <br>
 
+### Get in Touch
+
+<p> Shoot me an email if you see anything you like. </p>
+- Email - Jmkoster21@gmail.com
 
 
 
-<!--## Contact-->
-<!--- [Justin Koster](https://www.linkedin.com/in/justin-koster-502401225/) on Linkedin-->
-<!--- Email - Jmkoster21@gmail.com-->
+
+
+<!-- ## Contact
+- [Justin Koster](https://www.linkedin.com/in/justin-koster-502401225/) on Linkedin
+- Email - Jmkoster21@gmail.com -->
   
 <!--<details>-->
 <!-- <summary><h3>My Coding Journey</h3></summary>-->
