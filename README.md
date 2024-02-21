@@ -45,7 +45,7 @@
                 Because mental well-being deserves a tech-savvy ally. Let's
                 navigate the complexities of emotions together, one entry at a
                 time.
-        <div style="display: flex; justify-content: space-between; margin-top: 1rem">
+        <div style="display: flex; justify-content: space-between; margin-top: 2rem">
         <a href="https://github.com/RetroPixelz/FeelFine">
           <img alt="View FeelFine" title="FeelFine"              
               src="https://custom-icon-badges.demolab.com/badge/View%20FeelFine%20-FED32C.svg?style=for-the-badge&logo=code&logoSource=feather"/>
@@ -72,7 +72,7 @@
                 ingredients at your command. Level up your gameplay, forge
                 legendary items, and become the master crafter of your own
                 Warcraft adventure!
-        <div style="display: flex; justify-content: space-between; margin-top: 1rem">
+        <div style="display: flex; justify-content: space-between; margin-top: 2rem">
         <a href="https://github.com/RetroPixelz/WowCraft">
           <img alt="View WowCraft" title="wowCraft"              
               src="https://custom-icon-badges.demolab.com/badge/View%20WowCraft%20-FED32C.svg?style=for-the-badge&logo=code&logoSource=feather"/>
@@ -99,7 +99,7 @@
                 favorite. Your chance to shine in the Counter-Strike cosmos
                 awaits—show off your skins, win hearts, and claim your spot
                 among the global elite!
-        <div style="display: flex; justify-content: space-between; margin-top: 1rem">
+        <div style="display: flex; justify-content: space-between; margin-top: 2rem">
         <a href="https://github.com/RetroPixelz/SkinsGive">
           <img alt="View Counter Skins" title="Counter Skins"              
               src="https://custom-icon-badges.demolab.com/badge/View%20Counter Skins%20-FED32C.svg?style=for-the-badge&logo=code&logoSource=feather"/>
