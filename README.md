@@ -3,7 +3,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=FED32C&center=true&vCenter=true&width=1400&lines=Web Developer" alt="Typing SVG" /></a>
 </br>
 
-<p align="center">Young web developer & recent Open Window grad 🎓 | Passionate about front-end and mobile app development 💻📱 | Explore my projects and let's connect on LinkedIn for exciting opportunities! 🚀 #WebDev #MobileAppDev</p>
+<p align="center">Young web developer & recent Open Window grad 🎓 | Passionate about front-end and mobile app development 💻📱 | Explore my projects and let's connect on LinkedIn for exciting opportunities! 🚀 </p>
 
 
 </br>
