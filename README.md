@@ -79,28 +79,7 @@ Counter Skins is a mobile React-Native competition application where users can e
 </div>
 
 
-### Pinned Repositories 
-<hr style="height: 
-3px; background-color: gray;" />
 
-<a href="https://github.com/RetroPixelz/SkinsGive">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=RetroPixelz&repo=SkinsGive&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/epicYellow/Innovex-Bank.App">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=epicYellow&repo=Innovex-Bank.App&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-
-<br>
-
-<a href="https://github.com/RetroPixelz/WowCraft">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=RetroPixelz&repo=WowCraft&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/RetroPixelz/FeelFine">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=RetroPixelz&repo=FeelFine&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
 
 <br>
 
