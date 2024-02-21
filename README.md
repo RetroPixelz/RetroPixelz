@@ -34,7 +34,17 @@
               </p>
 </br>
 </br>
-FeelFine is a mobile Mental health application created with React Native and Google Firebase. Create journal entries that make use of IBM Wattson to perform emotion recogition. The results are displayed to the user in various ways across the front end.
+  Dive into the realm of emotional well-being with my latest
+                creation—a groundbreaking React Native mobile application
+                dedicated to mental health. Harnessing the power of cutting-edge
+                technology, I've integrated IBM Watson's Natural Language
+                Understanding model for emotion recognition. This means your
+                journal entries aren't just words; they're a visual journey into
+                your emotional landscape. Experience real-time feedback, gain
+                insights, and embark on a transformative self-discovery journey.
+                Because mental well-being deserves a tech-savvy ally. Let's
+                navigate the complexities of emotions together, one entry at a
+                time.
         <div style="display: flex; justify-content: space-between; margin-top: 1rem">
         <a href="https://github.com/RetroPixelz/FeelFine">
           <img alt="View FeelFine" title="FeelFine"              
@@ -51,7 +61,17 @@ FeelFine is a mobile Mental health application created with React Native and Goo
               </p>
 </br>
 </br>
-WoW Craft is an Inventory management Angular web app. Users can manage their ingredient stock levels across different locations aswell as craft Items based on the availability of ingredients, making use of an express server for the backend and MongoDB as the database.
+ Dive into the immersive world of Warcraft with our cutting-edge
+                Angular and Node.js application! Unleash your inner alchemist as
+                you take command of ingredient stock levels and delve into the
+                fascinating art of crafting within the game. Seamlessly manage
+                your virtual pantry, concocting powerful recipes, and strategize
+                your way to gaming glory. Whether you're a seasoned player or a
+                newcomer to Azeroth, our platform empowers you to master the
+                intricacies of crafting, ensuring you always have the right
+                ingredients at your command. Level up your gameplay, forge
+                legendary items, and become the master crafter of your own
+                Warcraft adventure!
         <div style="display: flex; justify-content: space-between; margin-top: 1rem">
         <a href="https://github.com/RetroPixelz/WowCraft">
           <img alt="View WowCraft" title="wowCraft"              
@@ -69,7 +89,16 @@ WoW Craft is an Inventory management Angular web app. Users can manage their ing
             
 </br>
 </br>
-Counter Skins is a mobile React-Native competition application where users can enter their skin designs and have the oppertunity for the community members to vote for their entries. I made use of google Firebase for the database and storage.
+ Dive into the vibrant world of Counter-Strike with my latest
+                creation—a dynamic React Native mobile app tailored for
+                passionate gamers! Picture this: unleash your creativity, submit
+                your unique skin designs, and let the community decide your
+                fate. It's not just a competition; it's a thrilling showcase of
+                talent. Watch as your designs come to life, go head-to-head with
+                other enthusiasts, and emerge victorious as the community's
+                favorite. Your chance to shine in the Counter-Strike cosmos
+                awaits—show off your skins, win hearts, and claim your spot
+                among the global elite!
         <div style="display: flex; justify-content: space-between; margin-top: 1rem">
         <a href="https://github.com/RetroPixelz/SkinsGive">
           <img alt="View Counter Skins" title="Counter Skins"              
